@@ -714,5 +714,177 @@
     "groupId": null,
     "detectedEventId": null,
     "subscriptionType": "event"
+  },
+  {
+    "id": 880241,
+    "displayStartDate": null,
+    "startDate": "Tue Jan 12 17:38:00 UTC 2021",
+    "endDate": null,
+    "etrDate": "Wed Jan 13 00:00:00 UTC 2021",
+    "deletedDate": null,
+    "duration": null,
+    "type": "OUTAGE",
+    "title": "Outage",
+    "numPeople": 1,
+    "mapPinUrl": "",
+    "description": null,
+    "status": "",
+    "cause": "Investigating",
+    "identifier": "120540",
+    "latitude": 47.68444077456538,
+    "longitude": -122.38569878015458,
+    "xOffset": null,
+    "yOffset": null,
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.6841619,
+            "longitude": -122.3854406,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6841377,
+            "longitude": -122.3854765,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6841262,
+            "longitude": -122.385495,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.684084,
+            "longitude": -122.3856522,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6841262,
+            "longitude": -122.3858094,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6841377,
+            "longitude": -122.385828,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6841619,
+            "longitude": -122.3858639,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6842654,
+            "longitude": -122.3859604,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6844226,
+            "longitude": -122.3860025,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6845798,
+            "longitude": -122.3859604,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6846833,
+            "longitude": -122.3858639,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6847075,
+            "longitude": -122.385828,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6847191,
+            "longitude": -122.3858094,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6847612,
+            "longitude": -122.3856522,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6847191,
+            "longitude": -122.385495,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6847075,
+            "longitude": -122.3854765,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6846833,
+            "longitude": -122.3854406,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6845798,
+            "longitude": -122.385344,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6844226,
+            "longitude": -122.3853019,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6842654,
+            "longitude": -122.385344,
+            "address": null,
+            "null": false
+          }
+        ]
+      }
+    ],
+    "publicVisibility": true,
+    "enabled": false,
+    "manual": false,
+    "color": null,
+    "images": [],
+    "rules": [],
+    "actions": [],
+    "operator": null,
+    "city": "North Seattle",
+    "state": "WA",
+    "zip": null,
+    "county": null,
+    "crewStatus": null,
+    "crew": null,
+    "device": null,
+    "affectedMunicipalities": [],
+    "affectedCounties": [],
+    "affectedDistricts": [],
+    "street": null,
+    "arcGisId": null,
+    "group": null,
+    "groupName": null,
+    "groupId": null,
+    "detectedEventId": null,
+    "subscriptionType": "event"
   }
 ]

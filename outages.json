@@ -1735,73 +1735,13 @@
     "status": "Dispatched",
     "cause": "Tree",
     "identifier": "120787",
-    "latitude": 47.48479258208997,
-    "longitude": -122.29388226099722,
+    "latitude": 47.48479258219691,
+    "longitude": -122.29388226085464,
     "xOffset": null,
     "yOffset": null,
     "polygons": [
       {
         "points": [
-          {
-            "latitude": 47.485093,
-            "longitude": -122.293442,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4844624,
-            "longitude": -122.2933369,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4844107,
-            "longitude": -122.2933326,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4842535,
-            "longitude": -122.2933747,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4841385,
-            "longitude": -122.2934898,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4840963,
-            "longitude": -122.293647,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4841385,
-            "longitude": -122.2938042,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4841765,
-            "longitude": -122.2938567,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4845749,
-            "longitude": -122.2943015,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4846519,
-            "longitude": -122.2943641,
-            "address": null,
-            "null": false
-          },
           {
             "latitude": 47.4848057,
             "longitude": -122.2944062,
@@ -1859,6 +1799,66 @@
           {
             "latitude": 47.4851985,
             "longitude": -122.2934798,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.485093,
+            "longitude": -122.293442,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4844624,
+            "longitude": -122.2933369,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4844107,
+            "longitude": -122.2933326,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4842535,
+            "longitude": -122.2933747,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4841385,
+            "longitude": -122.2934898,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4840963,
+            "longitude": -122.293647,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4841385,
+            "longitude": -122.2938042,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4841765,
+            "longitude": -122.2938567,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4845749,
+            "longitude": -122.2943015,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4846519,
+            "longitude": -122.2943641,
             "address": null,
             "null": false
           }
@@ -3784,178 +3784,6 @@
     "subscriptionType": "event"
   },
   {
-    "id": 880959,
-    "displayStartDate": null,
-    "startDate": "Wed Jan 13 16:16:00 UTC 2021",
-    "endDate": null,
-    "etrDate": "Fri Jan 15 06:30:00 UTC 2021",
-    "deletedDate": null,
-    "duration": null,
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 3,
-    "mapPinUrl": "",
-    "description": null,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "121050",
-    "latitude": 47.49188263336963,
-    "longitude": -122.33736456175292,
-    "xOffset": null,
-    "yOffset": null,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.4916242,
-            "longitude": -122.3371587,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4916,
-            "longitude": -122.3371946,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4915884,
-            "longitude": -122.3372132,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4915463,
-            "longitude": -122.3373704,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4915884,
-            "longitude": -122.3375276,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4916,
-            "longitude": -122.3375461,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4916242,
-            "longitude": -122.337582,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4917277,
-            "longitude": -122.3376785,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4918849,
-            "longitude": -122.3377207,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4920421,
-            "longitude": -122.3376785,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921456,
-            "longitude": -122.337582,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921698,
-            "longitude": -122.3375461,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921814,
-            "longitude": -122.3375276,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4922235,
-            "longitude": -122.3373704,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921814,
-            "longitude": -122.3372132,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921698,
-            "longitude": -122.3371946,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4921456,
-            "longitude": -122.3371587,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4920421,
-            "longitude": -122.3370622,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4918849,
-            "longitude": -122.3370201,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4917277,
-            "longitude": -122.3370622,
-            "address": null,
-            "null": false
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "color": null,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "operator": null,
-    "city": "South Seattle",
-    "state": "WA",
-    "zip": null,
-    "county": null,
-    "crewStatus": null,
-    "crew": null,
-    "device": null,
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": [],
-    "street": null,
-    "arcGisId": null,
-    "group": null,
-    "groupName": null,
-    "groupId": null,
-    "detectedEventId": null,
-    "subscriptionType": "event"
-  },
-  {
     "id": 880960,
     "displayStartDate": null,
     "startDate": "Wed Jan 13 16:15:00 UTC 2021",
@@ -4667,6 +4495,242 @@
       {
         "points": [
           {
+            "latitude": 47.5346644,
+            "longitude": -122.317683,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5346402,
+            "longitude": -122.3177189,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5346286,
+            "longitude": -122.3177375,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5345865,
+            "longitude": -122.3178947,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5346286,
+            "longitude": -122.3180519,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5346402,
+            "longitude": -122.3180704,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5346644,
+            "longitude": -122.3181063,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5347679,
+            "longitude": -122.3182029,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5349251,
+            "longitude": -122.318245,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5350823,
+            "longitude": -122.3182029,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5351858,
+            "longitude": -122.3181063,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.53521,
+            "longitude": -122.3180704,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5352216,
+            "longitude": -122.3180519,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5352637,
+            "longitude": -122.3178947,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5352216,
+            "longitude": -122.3177375,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.53521,
+            "longitude": -122.3177189,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5351858,
+            "longitude": -122.317683,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5350823,
+            "longitude": -122.3175865,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5349251,
+            "longitude": -122.3175444,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5347679,
+            "longitude": -122.3175865,
+            "address": null,
+            "null": false
+          }
+        ]
+      },
+      {
+        "points": [
+          {
+            "latitude": 47.5383014,
+            "longitude": -122.3213044,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5388251,
+            "longitude": -122.3222127,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5388252,
+            "longitude": -122.3222129,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5389402,
+            "longitude": -122.322328,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5390974,
+            "longitude": -122.3223701,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5392546,
+            "longitude": -122.322328,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5393697,
+            "longitude": -122.3222129,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5394118,
+            "longitude": -122.3220557,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5394089,
+            "longitude": -122.3220128,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5391132,
+            "longitude": -122.3198652,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.539074,
+            "longitude": -122.3197509,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.538959,
+            "longitude": -122.3196358,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5388018,
+            "longitude": -122.3195937,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5386446,
+            "longitude": -122.3196358,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5385295,
+            "longitude": -122.3197509,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5384925,
+            "longitude": -122.3198512,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5382646,
+            "longitude": -122.3210905,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5382594,
+            "longitude": -122.3211474,
+            "address": null,
+            "null": false
+          }
+        ]
+      },
+      {
+        "points": [
+          {
             "latitude": 47.5381093,
             "longitude": -122.3191712,
             "address": null,
@@ -4791,110 +4855,122 @@
       {
         "points": [
           {
-            "latitude": 47.5383014,
-            "longitude": -122.3213044,
+            "latitude": 47.5378222,
+            "longitude": -122.316309,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5388251,
-            "longitude": -122.3222127,
+            "latitude": 47.537798,
+            "longitude": -122.3163449,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5388252,
-            "longitude": -122.3222129,
+            "latitude": 47.5377864,
+            "longitude": -122.3163635,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5389402,
-            "longitude": -122.322328,
+            "latitude": 47.5377443,
+            "longitude": -122.3165207,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5390974,
-            "longitude": -122.3223701,
+            "latitude": 47.5377864,
+            "longitude": -122.3166779,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5392546,
-            "longitude": -122.322328,
+            "latitude": 47.537798,
+            "longitude": -122.3166964,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5393697,
-            "longitude": -122.3222129,
+            "latitude": 47.5378222,
+            "longitude": -122.3167323,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5394118,
-            "longitude": -122.3220557,
+            "latitude": 47.5379257,
+            "longitude": -122.3168288,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5394089,
-            "longitude": -122.3220128,
+            "latitude": 47.5380829,
+            "longitude": -122.316871,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5391132,
-            "longitude": -122.3198652,
+            "latitude": 47.5382401,
+            "longitude": -122.3168288,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.539074,
-            "longitude": -122.3197509,
+            "latitude": 47.5383436,
+            "longitude": -122.3167323,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.538959,
-            "longitude": -122.3196358,
+            "latitude": 47.5383678,
+            "longitude": -122.3166964,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5388018,
-            "longitude": -122.3195937,
+            "latitude": 47.5383794,
+            "longitude": -122.3166779,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5386446,
-            "longitude": -122.3196358,
+            "latitude": 47.5384215,
+            "longitude": -122.3165207,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5385295,
-            "longitude": -122.3197509,
+            "latitude": 47.5383794,
+            "longitude": -122.3163635,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5384925,
-            "longitude": -122.3198512,
+            "latitude": 47.5383678,
+            "longitude": -122.3163449,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5382646,
-            "longitude": -122.3210905,
+            "latitude": 47.5383436,
+            "longitude": -122.316309,
             "address": null,
             "null": false
           },
           {
-            "latitude": 47.5382594,
-            "longitude": -122.3211474,
+            "latitude": 47.5382401,
+            "longitude": -122.3162125,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5380829,
+            "longitude": -122.3161704,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5379257,
+            "longitude": -122.3162125,
             "address": null,
             "null": false
           }
@@ -5121,254 +5197,6 @@
           {
             "latitude": 47.5399043,
             "longitude": -122.3220586,
-            "address": null,
-            "null": false
-          }
-        ]
-      },
-      {
-        "points": [
-          {
-            "latitude": 47.5378222,
-            "longitude": -122.316309,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.537798,
-            "longitude": -122.3163449,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5377864,
-            "longitude": -122.3163635,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5377443,
-            "longitude": -122.3165207,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5377864,
-            "longitude": -122.3166779,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.537798,
-            "longitude": -122.3166964,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5378222,
-            "longitude": -122.3167323,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5379257,
-            "longitude": -122.3168288,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5380829,
-            "longitude": -122.316871,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5382401,
-            "longitude": -122.3168288,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383436,
-            "longitude": -122.3167323,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383678,
-            "longitude": -122.3166964,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383794,
-            "longitude": -122.3166779,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5384215,
-            "longitude": -122.3165207,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383794,
-            "longitude": -122.3163635,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383678,
-            "longitude": -122.3163449,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5383436,
-            "longitude": -122.316309,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5382401,
-            "longitude": -122.3162125,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5380829,
-            "longitude": -122.3161704,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5379257,
-            "longitude": -122.3162125,
-            "address": null,
-            "null": false
-          }
-        ]
-      },
-      {
-        "points": [
-          {
-            "latitude": 47.5346644,
-            "longitude": -122.317683,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5346402,
-            "longitude": -122.3177189,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5346286,
-            "longitude": -122.3177375,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5345865,
-            "longitude": -122.3178947,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5346286,
-            "longitude": -122.3180519,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5346402,
-            "longitude": -122.3180704,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5346644,
-            "longitude": -122.3181063,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5347679,
-            "longitude": -122.3182029,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5349251,
-            "longitude": -122.318245,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5350823,
-            "longitude": -122.3182029,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5351858,
-            "longitude": -122.3181063,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.53521,
-            "longitude": -122.3180704,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5352216,
-            "longitude": -122.3180519,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5352637,
-            "longitude": -122.3178947,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5352216,
-            "longitude": -122.3177375,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.53521,
-            "longitude": -122.3177189,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5351858,
-            "longitude": -122.317683,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5350823,
-            "longitude": -122.3175865,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5349251,
-            "longitude": -122.3175444,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5347679,
-            "longitude": -122.3175865,
             "address": null,
             "null": false
           }
@@ -6105,43 +5933,13 @@
     "status": "Dispatched",
     "cause": "Tree",
     "identifier": "121152",
-    "latitude": 47.51347700011161,
-    "longitude": -122.33844608368233,
+    "latitude": 47.51347700015238,
+    "longitude": -122.33844608257337,
     "xOffset": null,
     "yOffset": null,
     "polygons": [
       {
         "points": [
-          {
-            "latitude": 47.5132163,
-            "longitude": -122.3376825,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5130578,
-            "longitude": -122.3376917,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5129188,
-            "longitude": -122.3377333,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5128037,
-            "longitude": -122.3378483,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5127616,
-            "longitude": -122.3380055,
-            "address": null,
-            "null": false
-          },
           {
             "latitude": 47.5127724,
             "longitude": -122.3380876,
@@ -6253,6 +6051,36 @@
           {
             "latitude": 47.5132344,
             "longitude": -122.337682,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5132163,
+            "longitude": -122.3376825,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5130578,
+            "longitude": -122.3376917,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5129188,
+            "longitude": -122.3377333,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5128037,
+            "longitude": -122.3378483,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.5127616,
+            "longitude": -122.3380055,
             "address": null,
             "null": false
           }
@@ -11233,13 +11061,43 @@
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "121366",
-    "latitude": 47.49865192388883,
-    "longitude": -122.36977588534958,
+    "latitude": 47.49865192401759,
+    "longitude": -122.36977588586194,
     "xOffset": null,
     "yOffset": null,
     "polygons": [
       {
         "points": [
+          {
+            "latitude": 47.4986589,
+            "longitude": -122.3703834,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4988266,
+            "longitude": -122.3703082,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4988552,
+            "longitude": -122.3702936,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4989703,
+            "longitude": -122.3701785,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4990124,
+            "longitude": -122.3700213,
+            "address": null,
+            "null": false
+          },
           {
             "latitude": 47.4990124,
             "longitude": -122.3700161,
@@ -11315,36 +11173,6 @@
           {
             "latitude": 47.4985303,
             "longitude": -122.3704108,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4986589,
-            "longitude": -122.3703834,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4988266,
-            "longitude": -122.3703082,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4988552,
-            "longitude": -122.3702936,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4989703,
-            "longitude": -122.3701785,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4990124,
-            "longitude": -122.3700213,
             "address": null,
             "null": false
           }
@@ -12105,13 +11933,31 @@
     "status": "Dispatched",
     "cause": "Equip_Fail",
     "identifier": "121393",
-    "latitude": 47.48458577085936,
-    "longitude": -122.34525919049852,
+    "latitude": 47.48458577070223,
+    "longitude": -122.34525918975478,
     "xOffset": null,
     "yOffset": null,
     "polygons": [
       {
         "points": [
+          {
+            "latitude": 47.4838709,
+            "longitude": -122.3449177,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4838019,
+            "longitude": -122.3452152,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4837937,
+            "longitude": -122.3452863,
+            "address": null,
+            "null": false
+          },
           {
             "latitude": 47.4838035,
             "longitude": -122.3453641,
@@ -12271,24 +12117,6 @@
           {
             "latitude": 47.4839049,
             "longitude": -122.3448315,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4838709,
-            "longitude": -122.3449177,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4838019,
-            "longitude": -122.3452152,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4837937,
-            "longitude": -122.3452863,
             "address": null,
             "null": false
           }
@@ -17998,166 +17826,6 @@
     "subscriptionType": "event"
   },
   {
-    "id": 882015,
-    "displayStartDate": null,
-    "startDate": "Wed Jan 13 16:55:00 UTC 2021",
-    "endDate": null,
-    "etrDate": "Fri Jan 15 06:30:00 UTC 2021",
-    "deletedDate": null,
-    "duration": null,
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 8,
-    "mapPinUrl": "",
-    "description": null,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "121100",
-    "latitude": 47.59242622478778,
-    "longitude": -122.29812005869934,
-    "xOffset": null,
-    "yOffset": null,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.591865,
-            "longitude": -122.298085,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5919648,
-            "longitude": -122.2982784,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5919719,
-            "longitude": -122.2982914,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.592087,
-            "longitude": -122.2984065,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5922244,
-            "longitude": -122.298448,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5926973,
-            "longitude": -122.2984777,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.592717,
-            "longitude": -122.2984783,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5928742,
-            "longitude": -122.2984362,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5929893,
-            "longitude": -122.2983211,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5930314,
-            "longitude": -122.2981639,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5929893,
-            "longitude": -122.2980067,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5928742,
-            "longitude": -122.2978916,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5928311,
-            "longitude": -122.297871,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5922585,
-            "longitude": -122.2976478,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5921443,
-            "longitude": -122.2976264,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5919871,
-            "longitude": -122.2976685,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.591872,
-            "longitude": -122.2977836,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.5918299,
-            "longitude": -122.2979408,
-            "address": null,
-            "null": false
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "color": null,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "operator": null,
-    "city": "South Seattle",
-    "state": "WA",
-    "zip": null,
-    "county": null,
-    "crewStatus": null,
-    "crew": null,
-    "device": null,
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": [],
-    "street": null,
-    "arcGisId": null,
-    "group": null,
-    "groupName": null,
-    "groupId": null,
-    "detectedEventId": null,
-    "subscriptionType": "event"
-  },
-  {
     "id": 882021,
     "displayStartDate": null,
     "startDate": "Wed Jan 13 08:23:00 UTC 2021",
@@ -19715,7 +19383,7 @@
     "duration": null,
     "type": "OUTAGE",
     "title": "Outage",
-    "numPeople": 3,
+    "numPeople": 8,
     "mapPinUrl": "",
     "description": null,
     "status": "Dispatched",
@@ -21141,6 +20809,130 @@
       {
         "points": [
           {
+            "latitude": 47.4637068,
+            "longitude": -122.3387191,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4636826,
+            "longitude": -122.338755,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.463671,
+            "longitude": -122.3387736,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4636289,
+            "longitude": -122.3389308,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.463671,
+            "longitude": -122.339088,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4636826,
+            "longitude": -122.3391065,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4637068,
+            "longitude": -122.3391424,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4638103,
+            "longitude": -122.3392389,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4639675,
+            "longitude": -122.3392811,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4641247,
+            "longitude": -122.3392389,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642281,
+            "longitude": -122.3391424,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642524,
+            "longitude": -122.3391065,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642639,
+            "longitude": -122.339088,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4643061,
+            "longitude": -122.3389308,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642639,
+            "longitude": -122.3387736,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642524,
+            "longitude": -122.338755,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4642281,
+            "longitude": -122.3387191,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4641247,
+            "longitude": -122.3386226,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4639675,
+            "longitude": -122.3385805,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.4638103,
+            "longitude": -122.3386226,
+            "address": null,
+            "null": false
+          }
+        ]
+      },
+      {
+        "points": [
+          {
             "latitude": 47.4634802,
             "longitude": -122.3381599,
             "address": null,
@@ -21509,130 +21301,6 @@
           {
             "latitude": 47.4635223,
             "longitude": -122.3380027,
-            "address": null,
-            "null": false
-          }
-        ]
-      },
-      {
-        "points": [
-          {
-            "latitude": 47.4637068,
-            "longitude": -122.3387191,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4636826,
-            "longitude": -122.338755,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.463671,
-            "longitude": -122.3387736,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4636289,
-            "longitude": -122.3389308,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.463671,
-            "longitude": -122.339088,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4636826,
-            "longitude": -122.3391065,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4637068,
-            "longitude": -122.3391424,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4638103,
-            "longitude": -122.3392389,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4639675,
-            "longitude": -122.3392811,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4641247,
-            "longitude": -122.3392389,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642281,
-            "longitude": -122.3391424,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642524,
-            "longitude": -122.3391065,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642639,
-            "longitude": -122.339088,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4643061,
-            "longitude": -122.3389308,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642639,
-            "longitude": -122.3387736,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642524,
-            "longitude": -122.338755,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4642281,
-            "longitude": -122.3387191,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4641247,
-            "longitude": -122.3386226,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4639675,
-            "longitude": -122.3385805,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.4638103,
-            "longitude": -122.3386226,
             "address": null,
             "null": false
           }
@@ -22025,8 +21693,8 @@
     "status": "Dispatched",
     "cause": "Tree",
     "identifier": "121752",
-    "latitude": 47.64530840069418,
-    "longitude": -122.30258105393095,
+    "latitude": 47.645308400245064,
+    "longitude": -122.3025810540617,
     "xOffset": null,
     "yOffset": null,
     "polygons": [
@@ -22157,48 +21825,6 @@
       {
         "points": [
           {
-            "latitude": 47.644975,
-            "longitude": -122.3024035,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6450139,
-            "longitude": -122.3030275,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6450554,
-            "longitude": -122.3031651,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6451705,
-            "longitude": -122.3032802,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6453277,
-            "longitude": -122.3033223,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6454849,
-            "longitude": -122.3032802,
-            "address": null,
-            "null": false
-          },
-          {
-            "latitude": 47.6456,
-            "longitude": -122.3031651,
-            "address": null,
-            "null": false
-          },
-          {
             "latitude": 47.645642,
             "longitude": -122.3030167,
             "address": null,
@@ -22285,6 +21911,48 @@
           {
             "latitude": 47.6449744,
             "longitude": -122.302384,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.644975,
+            "longitude": -122.3024035,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6450139,
+            "longitude": -122.3030275,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6450554,
+            "longitude": -122.3031651,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6451705,
+            "longitude": -122.3032802,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6453277,
+            "longitude": -122.3033223,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6454849,
+            "longitude": -122.3032802,
+            "address": null,
+            "null": false
+          },
+          {
+            "latitude": 47.6456,
+            "longitude": -122.3031651,
             "address": null,
             "null": false
           }

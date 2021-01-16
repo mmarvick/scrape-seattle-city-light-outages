@@ -113,7 +113,7 @@
   {
     "id": 880758,
     "startDate": "Wed Jan 13 08:30:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 3,
@@ -224,7 +224,7 @@
   {
     "id": 880760,
     "startDate": "Wed Jan 13 08:33:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -335,7 +335,7 @@
   {
     "id": 880766,
     "startDate": "Wed Jan 13 08:41:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 4,
@@ -343,39 +343,11 @@
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "120768",
-    "latitude": 47.58664792122749,
-    "longitude": -122.30155422039256,
+    "latitude": 47.58664792143084,
+    "longitude": -122.30155422047791,
     "polygons": [
       {
         "points": [
-          {
-            "latitude": 47.5870184,
-            "longitude": -122.3020067
-          },
-          {
-            "latitude": 47.5869703,
-            "longitude": -122.3011187
-          },
-          {
-            "latitude": 47.5869287,
-            "longitude": -122.3009785
-          },
-          {
-            "latitude": 47.5868136,
-            "longitude": -122.3008634
-          },
-          {
-            "latitude": 47.5866564,
-            "longitude": -122.3008213
-          },
-          {
-            "latitude": 47.5864992,
-            "longitude": -122.3008634
-          },
-          {
-            "latitude": 47.5863841,
-            "longitude": -122.3009785
-          },
           {
             "latitude": 47.5863753,
             "longitude": -122.3009949
@@ -419,6 +391,34 @@
           {
             "latitude": 47.5870189,
             "longitude": -122.3020237
+          },
+          {
+            "latitude": 47.5870184,
+            "longitude": -122.3020067
+          },
+          {
+            "latitude": 47.5869703,
+            "longitude": -122.3011187
+          },
+          {
+            "latitude": 47.5869287,
+            "longitude": -122.3009785
+          },
+          {
+            "latitude": 47.5868136,
+            "longitude": -122.3008634
+          },
+          {
+            "latitude": 47.5866564,
+            "longitude": -122.3008213
+          },
+          {
+            "latitude": 47.5864992,
+            "longitude": -122.3008634
+          },
+          {
+            "latitude": 47.5863841,
+            "longitude": -122.3009785
           }
         ]
       }
@@ -438,7 +438,7 @@
   {
     "id": 880769,
     "startDate": "Wed Jan 13 08:47:00 UTC 2021",
-    "etrDate": "Sat Jan 16 03:27:00 UTC 2021",
+    "etrDate": "Sat Jan 16 05:47:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 8,
@@ -446,47 +446,11 @@
     "status": "Dispatched",
     "cause": "Tree",
     "identifier": "120774",
-    "latitude": 47.580147232336266,
-    "longitude": -122.39371736169873,
+    "latitude": 47.58014723247078,
+    "longitude": -122.39371736233592,
     "polygons": [
       {
         "points": [
-          {
-            "latitude": 47.579431,
-            "longitude": -122.3933912
-          },
-          {
-            "latitude": 47.579627,
-            "longitude": -122.3939988
-          },
-          {
-            "latitude": 47.5796539,
-            "longitude": -122.3940594
-          },
-          {
-            "latitude": 47.579769,
-            "longitude": -122.3941745
-          },
-          {
-            "latitude": 47.5799262,
-            "longitude": -122.3942166
-          },
-          {
-            "latitude": 47.5799312,
-            "longitude": -122.3942166
-          },
-          {
-            "latitude": 47.5802762,
-            "longitude": -122.3942111
-          },
-          {
-            "latitude": 47.5802928,
-            "longitude": -122.3942104
-          },
-          {
-            "latitude": 47.5805683,
-            "longitude": -122.3941914
-          },
           {
             "latitude": 47.5806596,
             "longitude": -122.3941712
@@ -538,6 +502,42 @@
           {
             "latitude": 47.5794158,
             "longitude": -122.3932946
+          },
+          {
+            "latitude": 47.579431,
+            "longitude": -122.3933912
+          },
+          {
+            "latitude": 47.579627,
+            "longitude": -122.3939988
+          },
+          {
+            "latitude": 47.5796539,
+            "longitude": -122.3940594
+          },
+          {
+            "latitude": 47.579769,
+            "longitude": -122.3941745
+          },
+          {
+            "latitude": 47.5799262,
+            "longitude": -122.3942166
+          },
+          {
+            "latitude": 47.5799312,
+            "longitude": -122.3942166
+          },
+          {
+            "latitude": 47.5802762,
+            "longitude": -122.3942111
+          },
+          {
+            "latitude": 47.5802928,
+            "longitude": -122.3942104
+          },
+          {
+            "latitude": 47.5805683,
+            "longitude": -122.3941914
           }
         ]
       }
@@ -555,120 +555,9 @@
     "affectedDistricts": []
   },
   {
-    "id": 880798,
-    "startDate": "Wed Jan 13 09:41:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "OK on arrival-SCL OK",
-    "identifier": "120818",
-    "latitude": 47.71288104517492,
-    "longitude": -122.29102029569086,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.7126022,
-            "longitude": -122.2907621
-          },
-          {
-            "latitude": 47.712578,
-            "longitude": -122.290798
-          },
-          {
-            "latitude": 47.7125664,
-            "longitude": -122.2908166
-          },
-          {
-            "latitude": 47.7125243,
-            "longitude": -122.2909738
-          },
-          {
-            "latitude": 47.7125664,
-            "longitude": -122.291131
-          },
-          {
-            "latitude": 47.712578,
-            "longitude": -122.2911495
-          },
-          {
-            "latitude": 47.7126022,
-            "longitude": -122.2911854
-          },
-          {
-            "latitude": 47.7127057,
-            "longitude": -122.291282
-          },
-          {
-            "latitude": 47.7128629,
-            "longitude": -122.2913241
-          },
-          {
-            "latitude": 47.7130201,
-            "longitude": -122.291282
-          },
-          {
-            "latitude": 47.7131236,
-            "longitude": -122.2911854
-          },
-          {
-            "latitude": 47.7131478,
-            "longitude": -122.2911495
-          },
-          {
-            "latitude": 47.7131594,
-            "longitude": -122.291131
-          },
-          {
-            "latitude": 47.7132015,
-            "longitude": -122.2909738
-          },
-          {
-            "latitude": 47.7131594,
-            "longitude": -122.2908166
-          },
-          {
-            "latitude": 47.7131478,
-            "longitude": -122.290798
-          },
-          {
-            "latitude": 47.7131236,
-            "longitude": -122.2907621
-          },
-          {
-            "latitude": 47.7130201,
-            "longitude": -122.2906656
-          },
-          {
-            "latitude": 47.7128629,
-            "longitude": -122.2906235
-          },
-          {
-            "latitude": 47.7127057,
-            "longitude": -122.2906656
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 880817,
     "startDate": "Wed Jan 13 10:52:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -779,7 +668,7 @@
   {
     "id": 880826,
     "startDate": "Wed Jan 13 12:32:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 08:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -890,7 +779,7 @@
   {
     "id": 880845,
     "startDate": "Wed Jan 13 13:51:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 08:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1001,7 +890,7 @@
   {
     "id": 880881,
     "startDate": "Wed Jan 13 14:59:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 10:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1112,7 +1001,7 @@
   {
     "id": 880923,
     "startDate": "Wed Jan 13 15:51:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -1223,7 +1112,7 @@
   {
     "id": 880926,
     "startDate": "Wed Jan 13 15:49:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 08:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -1334,7 +1223,7 @@
   {
     "id": 880937,
     "startDate": "Wed Jan 13 16:04:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1445,7 +1334,7 @@
   {
     "id": 880940,
     "startDate": "Wed Jan 13 16:10:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1556,7 +1445,7 @@
   {
     "id": 880960,
     "startDate": "Wed Jan 13 16:15:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -1667,7 +1556,7 @@
   {
     "id": 880978,
     "startDate": "Wed Jan 13 16:27:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1778,7 +1667,7 @@
   {
     "id": 880979,
     "startDate": "Wed Jan 13 16:23:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1889,7 +1778,7 @@
   {
     "id": 881000,
     "startDate": "Wed Jan 13 16:39:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -2000,7 +1889,7 @@
   {
     "id": 881021,
     "startDate": "Wed Jan 13 08:57:00 UTC 2021",
-    "etrDate": "Sat Jan 16 03:25:00 UTC 2021",
+    "etrDate": "Sat Jan 16 05:47:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 11,
@@ -2008,11 +1897,27 @@
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "120852",
-    "latitude": 47.5405628760327,
-    "longitude": -122.32242984494954,
+    "latitude": 47.54056287622219,
+    "longitude": -122.32242984409685,
     "polygons": [
       {
         "points": [
+          {
+            "latitude": 47.5404899,
+            "longitude": -122.3231914
+          },
+          {
+            "latitude": 47.5408526,
+            "longitude": -122.3229957
+          },
+          {
+            "latitude": 47.5408605,
+            "longitude": -122.3229913
+          },
+          {
+            "latitude": 47.5409756,
+            "longitude": -122.3228762
+          },
           {
             "latitude": 47.5409995,
             "longitude": -122.3228245
@@ -2084,22 +1989,6 @@
           {
             "latitude": 47.5403406,
             "longitude": -122.3232291
-          },
-          {
-            "latitude": 47.5404899,
-            "longitude": -122.3231914
-          },
-          {
-            "latitude": 47.5408526,
-            "longitude": -122.3229957
-          },
-          {
-            "latitude": 47.5408605,
-            "longitude": -122.3229913
-          },
-          {
-            "latitude": 47.5409756,
-            "longitude": -122.3228762
           }
         ]
       }
@@ -2119,7 +2008,7 @@
   {
     "id": 881026,
     "startDate": "Wed Jan 13 17:07:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -2230,7 +2119,7 @@
   {
     "id": 881027,
     "startDate": "Wed Jan 13 17:04:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 4,
@@ -2341,7 +2230,7 @@
   {
     "id": 881033,
     "startDate": "Wed Jan 13 17:29:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -2452,7 +2341,7 @@
   {
     "id": 881044,
     "startDate": "Wed Jan 13 17:47:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -2563,7 +2452,7 @@
   {
     "id": 881146,
     "startDate": "Wed Jan 13 18:14:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -2674,7 +2563,7 @@
   {
     "id": 881151,
     "startDate": "Wed Jan 13 18:42:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -2785,7 +2674,7 @@
   {
     "id": 881152,
     "startDate": "Wed Jan 13 18:44:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -2896,7 +2785,7 @@
   {
     "id": 881155,
     "startDate": "Wed Jan 13 18:56:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3007,7 +2896,7 @@
   {
     "id": 881159,
     "startDate": "Wed Jan 13 19:08:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -3118,7 +3007,7 @@
   {
     "id": 881236,
     "startDate": "Wed Jan 13 19:45:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 01:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3229,7 +3118,7 @@
   {
     "id": 881281,
     "startDate": "Wed Jan 13 20:42:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 01:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3340,7 +3229,7 @@
   {
     "id": 881287,
     "startDate": "Wed Jan 13 20:49:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 01:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3451,7 +3340,7 @@
   {
     "id": 881306,
     "startDate": "Wed Jan 13 21:07:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 03:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3562,7 +3451,7 @@
   {
     "id": 881307,
     "startDate": "Wed Jan 13 21:03:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 01:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -3673,7 +3562,7 @@
   {
     "id": 881312,
     "startDate": "Wed Jan 13 21:09:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 03:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3784,7 +3673,7 @@
   {
     "id": 881327,
     "startDate": "Wed Jan 13 21:23:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 03:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -3895,7 +3784,7 @@
   {
     "id": 881329,
     "startDate": "Wed Jan 13 21:25:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 05:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4006,7 +3895,7 @@
   {
     "id": 881377,
     "startDate": "Wed Jan 13 22:09:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 05:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4117,7 +4006,7 @@
   {
     "id": 881521,
     "startDate": "Thu Jan 14 00:51:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 05:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -4228,7 +4117,7 @@
   {
     "id": 881546,
     "startDate": "Thu Jan 14 01:40:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -4339,7 +4228,7 @@
   {
     "id": 881552,
     "startDate": "Thu Jan 14 01:52:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4450,7 +4339,7 @@
   {
     "id": 881581,
     "startDate": "Thu Jan 14 02:55:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 4,
@@ -4561,7 +4450,7 @@
   {
     "id": 881596,
     "startDate": "Thu Jan 14 03:59:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4672,7 +4561,7 @@
   {
     "id": 881885,
     "startDate": "Thu Jan 14 17:51:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4783,7 +4672,7 @@
   {
     "id": 881965,
     "startDate": "Wed Jan 13 23:03:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 05:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -4894,7 +4783,7 @@
   {
     "id": 881966,
     "startDate": "Wed Jan 13 21:11:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 03:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -5005,7 +4894,7 @@
   {
     "id": 881968,
     "startDate": "Thu Jan 14 19:23:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 4,
@@ -5116,7 +5005,7 @@
   {
     "id": 882012,
     "startDate": "Thu Jan 14 20:17:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 17:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -5227,7 +5116,7 @@
   {
     "id": 882114,
     "startDate": "Thu Jan 14 22:31:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -5338,7 +5227,7 @@
   {
     "id": 882133,
     "startDate": "Thu Jan 14 22:55:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -5449,13 +5338,13 @@
   {
     "id": 882173,
     "startDate": "Fri Jan 15 00:02:00 UTC 2021",
-    "etrDate": "Sat Jan 16 03:25:00 UTC 2021",
+    "etrDate": "Sat Jan 16 06:47:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 38,
     "mapPinUrl": "",
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Tree",
     "identifier": "121723",
     "latitude": 47.5644072600064,
     "longitude": -122.37354024199733,
@@ -5560,7 +5449,7 @@
   {
     "id": 882222,
     "startDate": "Fri Jan 15 01:12:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -5671,7 +5560,7 @@
   {
     "id": 882278,
     "startDate": "Thu Jan 14 20:26:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -5782,7 +5671,7 @@
   {
     "id": 882289,
     "startDate": "Fri Jan 15 06:44:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -5893,7 +5782,7 @@
   {
     "id": 882309,
     "startDate": "Fri Jan 15 10:47:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6004,7 +5893,7 @@
   {
     "id": 882480,
     "startDate": "Fri Jan 15 16:58:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6115,7 +6004,7 @@
   {
     "id": 882492,
     "startDate": "Thu Jan 14 20:31:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6226,7 +6115,7 @@
   {
     "id": 882598,
     "startDate": "Fri Jan 15 18:25:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 21:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6337,7 +6226,7 @@
   {
     "id": 882804,
     "startDate": "Sat Jan 16 00:06:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6448,7 +6337,7 @@
   {
     "id": 882808,
     "startDate": "Sat Jan 16 00:15:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6559,7 +6448,7 @@
   {
     "id": 882822,
     "startDate": "Sat Jan 16 00:46:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 23:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -6670,13 +6559,13 @@
   {
     "id": 882828,
     "startDate": "Sat Jan 16 01:12:00 UTC 2021",
-    "etrDate": "Sat Jan 16 02:00:00 UTC 2021",
+    "etrDate": "Sat Jan 16 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Tree",
     "identifier": "121824",
     "latitude": 47.74991889165679,
     "longitude": -122.35131601410748,

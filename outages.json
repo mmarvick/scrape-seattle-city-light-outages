@@ -1,116 +1,5 @@
 [
   {
-    "id": 883245,
-    "startDate": "Sat Jan 16 19:56:00 UTC 2021",
-    "etrDate": "Sun Jan 17 08:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 2,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Equip_Fail",
-    "identifier": "121835",
-    "latitude": 47.66980819042655,
-    "longitude": -122.366009763735,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.6700304,
-            "longitude": -122.3661225
-          },
-          {
-            "latitude": 47.6700546,
-            "longitude": -122.3660866
-          },
-          {
-            "latitude": 47.6700661,
-            "longitude": -122.3660681
-          },
-          {
-            "latitude": 47.6701083,
-            "longitude": -122.3659109
-          },
-          {
-            "latitude": 47.6700661,
-            "longitude": -122.3657537
-          },
-          {
-            "latitude": 47.6700546,
-            "longitude": -122.3657351
-          },
-          {
-            "latitude": 47.6700304,
-            "longitude": -122.3656992
-          },
-          {
-            "latitude": 47.6699269,
-            "longitude": -122.3656027
-          },
-          {
-            "latitude": 47.6697697,
-            "longitude": -122.3655606
-          },
-          {
-            "latitude": 47.6696125,
-            "longitude": -122.3656027
-          },
-          {
-            "latitude": 47.669509,
-            "longitude": -122.3656992
-          },
-          {
-            "latitude": 47.6694848,
-            "longitude": -122.3657351
-          },
-          {
-            "latitude": 47.6694732,
-            "longitude": -122.3657537
-          },
-          {
-            "latitude": 47.6694311,
-            "longitude": -122.3659109
-          },
-          {
-            "latitude": 47.6694732,
-            "longitude": -122.3660681
-          },
-          {
-            "latitude": 47.6694848,
-            "longitude": -122.3660866
-          },
-          {
-            "latitude": 47.669509,
-            "longitude": -122.3661225
-          },
-          {
-            "latitude": 47.6696125,
-            "longitude": -122.3662191
-          },
-          {
-            "latitude": 47.6697697,
-            "longitude": -122.3662612
-          },
-          {
-            "latitude": 47.6699269,
-            "longitude": -122.3662191
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 883258,
     "startDate": "Sat Jan 16 20:19:00 UTC 2021",
     "etrDate": "Sun Jan 17 06:43:00 UTC 2021",
@@ -420,13 +309,13 @@
   {
     "id": 883367,
     "startDate": "Sun Jan 17 01:18:00 UTC 2021",
-    "etrDate": "Sun Jan 17 08:00:00 UTC 2021",
+    "etrDate": "Sun Jan 17 21:53:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Equip_Fail",
     "identifier": "121845",
     "latitude": 47.639849223161164,
     "longitude": -122.40388459306199,
@@ -523,109 +412,6 @@
     "rules": [],
     "actions": [],
     "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
-    "id": 883392,
-    "startDate": "Sun Jan 17 05:02:00 UTC 2021",
-    "etrDate": "Sun Jan 17 08:13:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 4,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Tree",
-    "identifier": "121849",
-    "latitude": 47.595947391615624,
-    "longitude": -122.30775256099821,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.5958359,
-            "longitude": -122.3072331
-          },
-          {
-            "latitude": 47.5954712,
-            "longitude": -122.30758
-          },
-          {
-            "latitude": 47.5954156,
-            "longitude": -122.3076506
-          },
-          {
-            "latitude": 47.5953735,
-            "longitude": -122.3078078
-          },
-          {
-            "latitude": 47.5954156,
-            "longitude": -122.307965
-          },
-          {
-            "latitude": 47.5955307,
-            "longitude": -122.30808
-          },
-          {
-            "latitude": 47.595585,
-            "longitude": -122.3081048
-          },
-          {
-            "latitude": 47.5959617,
-            "longitude": -122.3082354
-          },
-          {
-            "latitude": 47.5960646,
-            "longitude": -122.3082527
-          },
-          {
-            "latitude": 47.5962218,
-            "longitude": -122.3082106
-          },
-          {
-            "latitude": 47.5963369,
-            "longitude": -122.3080955
-          },
-          {
-            "latitude": 47.596379,
-            "longitude": -122.3079383
-          },
-          {
-            "latitude": 47.5963789,
-            "longitude": -122.3079304
-          },
-          {
-            "latitude": 47.5963669,
-            "longitude": -122.3074529
-          },
-          {
-            "latitude": 47.5963249,
-            "longitude": -122.3073036
-          },
-          {
-            "latitude": 47.5962098,
-            "longitude": -122.3071886
-          },
-          {
-            "latitude": 47.5960526,
-            "longitude": -122.3071464
-          },
-          {
-            "latitude": 47.5958954,
-            "longitude": -122.3071886
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "South Seattle",
     "state": "WA",
     "affectedMunicipalities": [],
     "affectedCounties": [],

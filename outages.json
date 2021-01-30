@@ -1,91 +1,99 @@
 [
   {
-    "id": 891466,
-    "startDate": "Sat Jan 30 10:16:00 UTC 2021",
-    "etrDate": "Sat Jan 30 14:00:00 UTC 2021",
+    "id": 891519,
+    "startDate": "Sat Jan 30 16:23:00 UTC 2021",
+    "etrDate": "Sat Jan 30 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
-    "numPeople": 5,
+    "numPeople": 6,
     "mapPinUrl": "",
-    "status": "",
-    "cause": "Car/Pole",
-    "identifier": "122289",
-    "latitude": 47.705351309899186,
-    "longitude": -122.3554772776341,
+    "status": "Dispatched",
+    "cause": "Investigating",
+    "identifier": "122291",
+    "latitude": 47.66250172283124,
+    "longitude": -122.29908436828623,
     "polygons": [
       {
         "points": [
           {
-            "latitude": 47.7049298,
-            "longitude": -122.354927
+            "latitude": 47.6622025,
+            "longitude": -122.2987739
           },
           {
-            "latitude": 47.7049805,
-            "longitude": -122.3558696
+            "latitude": 47.6621783,
+            "longitude": -122.2988098
           },
           {
-            "latitude": 47.7050222,
-            "longitude": -122.3560099
+            "latitude": 47.6621667,
+            "longitude": -122.2988283
           },
           {
-            "latitude": 47.7051303,
-            "longitude": -122.3561208
+            "latitude": 47.6621246,
+            "longitude": -122.2989855
           },
           {
-            "latitude": 47.7053969,
-            "longitude": -122.356284
+            "latitude": 47.6621667,
+            "longitude": -122.2991427
           },
           {
-            "latitude": 47.7054038,
-            "longitude": -122.3562882
+            "latitude": 47.6621783,
+            "longitude": -122.2991613
           },
           {
-            "latitude": 47.705561,
-            "longitude": -122.3563303
+            "latitude": 47.6622025,
+            "longitude": -122.2991972
           },
           {
-            "latitude": 47.7057182,
-            "longitude": -122.3562882
+            "latitude": 47.662306,
+            "longitude": -122.2992937
           },
           {
-            "latitude": 47.7058333,
-            "longitude": -122.3561731
+            "latitude": 47.6624632,
+            "longitude": -122.2993358
           },
           {
-            "latitude": 47.7058754,
-            "longitude": -122.3560159
+            "latitude": 47.6626204,
+            "longitude": -122.2992937
           },
           {
-            "latitude": 47.7058632,
-            "longitude": -122.3559292
+            "latitude": 47.6627239,
+            "longitude": -122.2991972
           },
           {
-            "latitude": 47.705546,
-            "longitude": -122.3548234
+            "latitude": 47.6627481,
+            "longitude": -122.2991613
           },
           {
-            "latitude": 47.7055161,
-            "longitude": -122.3547529
+            "latitude": 47.6627597,
+            "longitude": -122.2991427
           },
           {
-            "latitude": 47.705401,
-            "longitude": -122.3546379
+            "latitude": 47.6628018,
+            "longitude": -122.2989855
           },
           {
-            "latitude": 47.7052438,
-            "longitude": -122.3545957
+            "latitude": 47.6627597,
+            "longitude": -122.2988283
           },
           {
-            "latitude": 47.7050866,
-            "longitude": -122.3546379
+            "latitude": 47.6627481,
+            "longitude": -122.2988098
           },
           {
-            "latitude": 47.7049715,
-            "longitude": -122.3547529
+            "latitude": 47.6627239,
+            "longitude": -122.2987739
           },
           {
-            "latitude": 47.7049294,
-            "longitude": -122.3549101
+            "latitude": 47.6626204,
+            "longitude": -122.2986774
+          },
+          {
+            "latitude": 47.6624632,
+            "longitude": -122.2986352
+          },
+          {
+            "latitude": 47.662306,
+            "longitude": -122.2986774
           }
         ]
       }

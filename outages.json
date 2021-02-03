@@ -1,1 +1,113 @@
-[]
+[
+  {
+    "id": 893472,
+    "startDate": "Wed Feb 03 16:38:00 UTC 2021",
+    "etrDate": "Wed Feb 03 20:00:00 UTC 2021",
+    "type": "OUTAGE",
+    "title": "Outage",
+    "numPeople": 1,
+    "mapPinUrl": "",
+    "status": "Dispatched",
+    "cause": "Investigating",
+    "identifier": "122392",
+    "latitude": 47.64085655889927,
+    "longitude": -122.36341058886626,
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.6405777,
+            "longitude": -122.3631524
+          },
+          {
+            "latitude": 47.6405535,
+            "longitude": -122.3631883
+          },
+          {
+            "latitude": 47.640542,
+            "longitude": -122.3632068
+          },
+          {
+            "latitude": 47.6404998,
+            "longitude": -122.363364
+          },
+          {
+            "latitude": 47.640542,
+            "longitude": -122.3635212
+          },
+          {
+            "latitude": 47.6405535,
+            "longitude": -122.3635398
+          },
+          {
+            "latitude": 47.6405777,
+            "longitude": -122.3635757
+          },
+          {
+            "latitude": 47.6406812,
+            "longitude": -122.3636722
+          },
+          {
+            "latitude": 47.6408384,
+            "longitude": -122.3637143
+          },
+          {
+            "latitude": 47.6409956,
+            "longitude": -122.3636722
+          },
+          {
+            "latitude": 47.6410991,
+            "longitude": -122.3635757
+          },
+          {
+            "latitude": 47.6411233,
+            "longitude": -122.3635398
+          },
+          {
+            "latitude": 47.6411349,
+            "longitude": -122.3635212
+          },
+          {
+            "latitude": 47.641177,
+            "longitude": -122.363364
+          },
+          {
+            "latitude": 47.6411349,
+            "longitude": -122.3632068
+          },
+          {
+            "latitude": 47.6411233,
+            "longitude": -122.3631883
+          },
+          {
+            "latitude": 47.6410991,
+            "longitude": -122.3631524
+          },
+          {
+            "latitude": 47.6409956,
+            "longitude": -122.3630559
+          },
+          {
+            "latitude": 47.6408384,
+            "longitude": -122.3630137
+          },
+          {
+            "latitude": 47.6406812,
+            "longitude": -122.3630559
+          }
+        ]
+      }
+    ],
+    "publicVisibility": true,
+    "enabled": false,
+    "manual": false,
+    "images": [],
+    "rules": [],
+    "actions": [],
+    "city": "North Seattle",
+    "state": "WA",
+    "affectedMunicipalities": [],
+    "affectedCounties": [],
+    "affectedDistricts": []
+  }
+]

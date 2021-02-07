@@ -109,5 +109,116 @@
     "affectedMunicipalities": [],
     "affectedCounties": [],
     "affectedDistricts": []
+  },
+  {
+    "id": 898987,
+    "startDate": "Sun Feb 07 22:41:00 UTC 2021",
+    "etrDate": "Sun Feb 07 22:54:00 UTC 2021",
+    "type": "OUTAGE",
+    "title": "Outage",
+    "numPeople": 2,
+    "mapPinUrl": "",
+    "status": "",
+    "cause": "Investigating",
+    "identifier": "122479",
+    "latitude": 47.48130206621304,
+    "longitude": -122.24511361847388,
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.4815447,
+            "longitude": -122.2452788
+          },
+          {
+            "latitude": 47.4815689,
+            "longitude": -122.2452429
+          },
+          {
+            "latitude": 47.4815805,
+            "longitude": -122.2452243
+          },
+          {
+            "latitude": 47.4816226,
+            "longitude": -122.2450671
+          },
+          {
+            "latitude": 47.4815805,
+            "longitude": -122.2449099
+          },
+          {
+            "latitude": 47.4815689,
+            "longitude": -122.2448914
+          },
+          {
+            "latitude": 47.4815447,
+            "longitude": -122.2448555
+          },
+          {
+            "latitude": 47.4814412,
+            "longitude": -122.2447589
+          },
+          {
+            "latitude": 47.481284,
+            "longitude": -122.2447168
+          },
+          {
+            "latitude": 47.4811268,
+            "longitude": -122.2447589
+          },
+          {
+            "latitude": 47.4810233,
+            "longitude": -122.2448555
+          },
+          {
+            "latitude": 47.4809991,
+            "longitude": -122.2448914
+          },
+          {
+            "latitude": 47.4809875,
+            "longitude": -122.2449099
+          },
+          {
+            "latitude": 47.4809454,
+            "longitude": -122.2450671
+          },
+          {
+            "latitude": 47.4809875,
+            "longitude": -122.2452243
+          },
+          {
+            "latitude": 47.4809991,
+            "longitude": -122.2452429
+          },
+          {
+            "latitude": 47.4810233,
+            "longitude": -122.2452788
+          },
+          {
+            "latitude": 47.4811268,
+            "longitude": -122.2453753
+          },
+          {
+            "latitude": 47.481284,
+            "longitude": -122.2454174
+          },
+          {
+            "latitude": 47.4814412,
+            "longitude": -122.2453753
+          }
+        ]
+      }
+    ],
+    "publicVisibility": true,
+    "enabled": false,
+    "manual": false,
+    "images": [],
+    "rules": [],
+    "actions": [],
+    "city": "South Seattle",
+    "state": "WA",
+    "affectedMunicipalities": [],
+    "affectedCounties": [],
+    "affectedDistricts": []
   }
 ]

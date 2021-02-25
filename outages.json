@@ -585,7 +585,7 @@
   {
     "id": 909835,
     "startDate": "Wed Feb 24 22:44:00 UTC 2021",
-    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 07:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -696,7 +696,7 @@
   {
     "id": 909921,
     "startDate": "Thu Feb 25 00:29:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -807,7 +807,7 @@
   {
     "id": 909957,
     "startDate": "Thu Feb 25 01:00:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -918,7 +918,7 @@
   {
     "id": 909959,
     "startDate": "Thu Feb 25 01:11:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1029,7 +1029,7 @@
   {
     "id": 909962,
     "startDate": "Thu Feb 25 01:28:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1138,125 +1138,14 @@
     "affectedDistricts": []
   },
   {
-    "id": 909973,
-    "startDate": "Thu Feb 25 01:32:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "",
-    "cause": "Investigating",
-    "identifier": "123249",
-    "latitude": 47.70723333069869,
-    "longitude": -122.3192619200008,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.7069545,
-            "longitude": -122.3190037
-          },
-          {
-            "latitude": 47.7069303,
-            "longitude": -122.3190396
-          },
-          {
-            "latitude": 47.7069187,
-            "longitude": -122.3190582
-          },
-          {
-            "latitude": 47.7068766,
-            "longitude": -122.3192154
-          },
-          {
-            "latitude": 47.7069187,
-            "longitude": -122.3193726
-          },
-          {
-            "latitude": 47.7069303,
-            "longitude": -122.3193911
-          },
-          {
-            "latitude": 47.7069545,
-            "longitude": -122.319427
-          },
-          {
-            "latitude": 47.707058,
-            "longitude": -122.3195236
-          },
-          {
-            "latitude": 47.7072152,
-            "longitude": -122.3195657
-          },
-          {
-            "latitude": 47.7073724,
-            "longitude": -122.3195236
-          },
-          {
-            "latitude": 47.7074759,
-            "longitude": -122.319427
-          },
-          {
-            "latitude": 47.7075001,
-            "longitude": -122.3193911
-          },
-          {
-            "latitude": 47.7075117,
-            "longitude": -122.3193726
-          },
-          {
-            "latitude": 47.7075538,
-            "longitude": -122.3192154
-          },
-          {
-            "latitude": 47.7075117,
-            "longitude": -122.3190582
-          },
-          {
-            "latitude": 47.7075001,
-            "longitude": -122.3190396
-          },
-          {
-            "latitude": 47.7074759,
-            "longitude": -122.3190037
-          },
-          {
-            "latitude": 47.7073724,
-            "longitude": -122.3189072
-          },
-          {
-            "latitude": 47.7072152,
-            "longitude": -122.3188651
-          },
-          {
-            "latitude": 47.707058,
-            "longitude": -122.3189072
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 909989,
     "startDate": "Thu Feb 25 01:45:00 UTC 2021",
-    "etrDate": "Thu Feb 25 05:00:00 UTC 2021",
+    "etrDate": "Thu Feb 25 06:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "123250",
     "latitude": 47.769745558675986,

@@ -1,210 +1,99 @@
 [
   {
-    "id": 928143,
-    "startDate": "Tue Mar 30 21:00:00 UTC 2021",
-    "etrDate": "Wed Mar 31 16:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "123969",
-    "latitude": 47.53625469580779,
-    "longitude": -122.29164555085335,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.5360166,
-            "longitude": -122.291492
-          },
-          {
-            "latitude": 47.5359924,
-            "longitude": -122.2915279
-          },
-          {
-            "latitude": 47.5359808,
-            "longitude": -122.2915465
-          },
-          {
-            "latitude": 47.5359387,
-            "longitude": -122.2917037
-          },
-          {
-            "latitude": 47.5359808,
-            "longitude": -122.2918609
-          },
-          {
-            "latitude": 47.5359924,
-            "longitude": -122.2918794
-          },
-          {
-            "latitude": 47.5360166,
-            "longitude": -122.2919153
-          },
-          {
-            "latitude": 47.5361201,
-            "longitude": -122.2920118
-          },
-          {
-            "latitude": 47.5362773,
-            "longitude": -122.292054
-          },
-          {
-            "latitude": 47.5364345,
-            "longitude": -122.2920118
-          },
-          {
-            "latitude": 47.536538,
-            "longitude": -122.2919153
-          },
-          {
-            "latitude": 47.5365622,
-            "longitude": -122.2918794
-          },
-          {
-            "latitude": 47.5365738,
-            "longitude": -122.2918609
-          },
-          {
-            "latitude": 47.5366159,
-            "longitude": -122.2917037
-          },
-          {
-            "latitude": 47.5365738,
-            "longitude": -122.2915465
-          },
-          {
-            "latitude": 47.5365622,
-            "longitude": -122.2915279
-          },
-          {
-            "latitude": 47.536538,
-            "longitude": -122.291492
-          },
-          {
-            "latitude": 47.5364345,
-            "longitude": -122.2913955
-          },
-          {
-            "latitude": 47.5362773,
-            "longitude": -122.2913534
-          },
-          {
-            "latitude": 47.5361201,
-            "longitude": -122.2913955
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "South Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
-    "id": 928171,
-    "startDate": "Tue Mar 30 22:46:00 UTC 2021",
+    "id": 928253,
+    "startDate": "Wed Mar 31 01:56:00 UTC 2021",
     "etrDate": "Wed Mar 31 05:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
-    "status": "Dispatched",
+    "status": "",
     "cause": "Investigating",
-    "identifier": "123975",
-    "latitude": 47.46286221469756,
-    "longitude": -122.33205105819034,
+    "identifier": "123982",
+    "latitude": 47.62518959735827,
+    "longitude": -122.31924315869621,
     "polygons": [
       {
         "points": [
           {
-            "latitude": 47.4626241,
-            "longitude": -122.3318975
+            "latitude": 47.6249108,
+            "longitude": -122.318985
           },
           {
-            "latitude": 47.4625999,
-            "longitude": -122.3319334
+            "latitude": 47.6248866,
+            "longitude": -122.3190209
           },
           {
-            "latitude": 47.4625883,
-            "longitude": -122.331952
+            "latitude": 47.624875,
+            "longitude": -122.3190394
           },
           {
-            "latitude": 47.4625462,
-            "longitude": -122.3321092
+            "latitude": 47.6248329,
+            "longitude": -122.3191966
           },
           {
-            "latitude": 47.4625883,
-            "longitude": -122.3322664
+            "latitude": 47.624875,
+            "longitude": -122.3193538
           },
           {
-            "latitude": 47.4625999,
-            "longitude": -122.3322849
+            "latitude": 47.6248866,
+            "longitude": -122.3193724
           },
           {
-            "latitude": 47.4626241,
-            "longitude": -122.3323208
+            "latitude": 47.6249108,
+            "longitude": -122.3194083
           },
           {
-            "latitude": 47.4627276,
-            "longitude": -122.3324174
+            "latitude": 47.6250143,
+            "longitude": -122.3195048
           },
           {
-            "latitude": 47.4628848,
-            "longitude": -122.3324595
+            "latitude": 47.6251715,
+            "longitude": -122.3195469
           },
           {
-            "latitude": 47.463042,
-            "longitude": -122.3324174
+            "latitude": 47.6253287,
+            "longitude": -122.3195048
           },
           {
-            "latitude": 47.4631455,
-            "longitude": -122.3323208
+            "latitude": 47.6254322,
+            "longitude": -122.3194083
           },
           {
-            "latitude": 47.4631697,
-            "longitude": -122.3322849
+            "latitude": 47.6254564,
+            "longitude": -122.3193724
           },
           {
-            "latitude": 47.4631813,
-            "longitude": -122.3322664
+            "latitude": 47.625468,
+            "longitude": -122.3193538
           },
           {
-            "latitude": 47.4632234,
-            "longitude": -122.3321092
+            "latitude": 47.6255101,
+            "longitude": -122.3191966
           },
           {
-            "latitude": 47.4631813,
-            "longitude": -122.331952
+            "latitude": 47.625468,
+            "longitude": -122.3190394
           },
           {
-            "latitude": 47.4631697,
-            "longitude": -122.3319334
+            "latitude": 47.6254564,
+            "longitude": -122.3190209
           },
           {
-            "latitude": 47.4631455,
-            "longitude": -122.3318975
+            "latitude": 47.6254322,
+            "longitude": -122.318985
           },
           {
-            "latitude": 47.463042,
-            "longitude": -122.331801
+            "latitude": 47.6253287,
+            "longitude": -122.3188885
           },
           {
-            "latitude": 47.4628848,
-            "longitude": -122.3317589
+            "latitude": 47.6251715,
+            "longitude": -122.3188463
           },
           {
-            "latitude": 47.4627276,
-            "longitude": -122.331801
+            "latitude": 47.6250143,
+            "longitude": -122.3188885
           }
         ]
       }
@@ -215,7 +104,7 @@
     "images": [],
     "rules": [],
     "actions": [],
-    "city": "South Seattle",
+    "city": "North Seattle",
     "state": "WA",
     "affectedMunicipalities": [],
     "affectedCounties": [],

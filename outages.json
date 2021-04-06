@@ -1,124 +1,13 @@
 [
   {
-    "id": 928517,
-    "startDate": "Mon Apr 05 21:56:00 UTC 2021",
-    "etrDate": "Tue Apr 06 05:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "",
-    "cause": "Investigating",
-    "identifier": "124133",
-    "latitude": 47.740419826464354,
-    "longitude": -122.35791337643236,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.7401614,
-            "longitude": -122.3577075
-          },
-          {
-            "latitude": 47.7401372,
-            "longitude": -122.3577434
-          },
-          {
-            "latitude": 47.7401256,
-            "longitude": -122.357762
-          },
-          {
-            "latitude": 47.7400835,
-            "longitude": -122.3579192
-          },
-          {
-            "latitude": 47.7401256,
-            "longitude": -122.3580764
-          },
-          {
-            "latitude": 47.7401372,
-            "longitude": -122.3580949
-          },
-          {
-            "latitude": 47.7401614,
-            "longitude": -122.3581308
-          },
-          {
-            "latitude": 47.7402649,
-            "longitude": -122.3582274
-          },
-          {
-            "latitude": 47.7404221,
-            "longitude": -122.3582695
-          },
-          {
-            "latitude": 47.7405793,
-            "longitude": -122.3582274
-          },
-          {
-            "latitude": 47.7406828,
-            "longitude": -122.3581308
-          },
-          {
-            "latitude": 47.740707,
-            "longitude": -122.3580949
-          },
-          {
-            "latitude": 47.7407186,
-            "longitude": -122.3580764
-          },
-          {
-            "latitude": 47.7407607,
-            "longitude": -122.3579192
-          },
-          {
-            "latitude": 47.7407186,
-            "longitude": -122.357762
-          },
-          {
-            "latitude": 47.740707,
-            "longitude": -122.3577434
-          },
-          {
-            "latitude": 47.7406828,
-            "longitude": -122.3577075
-          },
-          {
-            "latitude": 47.7405793,
-            "longitude": -122.357611
-          },
-          {
-            "latitude": 47.7404221,
-            "longitude": -122.3575689
-          },
-          {
-            "latitude": 47.7402649,
-            "longitude": -122.357611
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 928524,
     "startDate": "Mon Apr 05 23:45:00 UTC 2021",
-    "etrDate": "Tue Apr 06 02:00:00 UTC 2021",
+    "etrDate": "Tue Apr 06 04:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "124137",
     "latitude": 47.65307076570348,

@@ -7,12 +7,96 @@
     "title": "Outage",
     "numPeople": 715,
     "mapPinUrl": "",
-    "status": "",
-    "cause": "Investigating",
+    "status": "Dispatched",
+    "cause": "Tree",
     "identifier": "124294",
-    "latitude": 47.66477761585181,
-    "longitude": -122.30371155872241,
+    "latitude": 47.66477713891519,
+    "longitude": -122.30371178754618,
     "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.6527818,
+            "longitude": -122.3020725
+          },
+          {
+            "latitude": 47.6527576,
+            "longitude": -122.3021084
+          },
+          {
+            "latitude": 47.652746,
+            "longitude": -122.302127
+          },
+          {
+            "latitude": 47.6527039,
+            "longitude": -122.3022842
+          },
+          {
+            "latitude": 47.652746,
+            "longitude": -122.3024414
+          },
+          {
+            "latitude": 47.6527576,
+            "longitude": -122.3024599
+          },
+          {
+            "latitude": 47.6527818,
+            "longitude": -122.3024958
+          },
+          {
+            "latitude": 47.6528853,
+            "longitude": -122.3025923
+          },
+          {
+            "latitude": 47.6530425,
+            "longitude": -122.3026345
+          },
+          {
+            "latitude": 47.6531997,
+            "longitude": -122.3025923
+          },
+          {
+            "latitude": 47.6533032,
+            "longitude": -122.3024958
+          },
+          {
+            "latitude": 47.6533274,
+            "longitude": -122.3024599
+          },
+          {
+            "latitude": 47.6533389,
+            "longitude": -122.3024414
+          },
+          {
+            "latitude": 47.6533811,
+            "longitude": -122.3022842
+          },
+          {
+            "latitude": 47.6533389,
+            "longitude": -122.302127
+          },
+          {
+            "latitude": 47.6533274,
+            "longitude": -122.3021084
+          },
+          {
+            "latitude": 47.6533032,
+            "longitude": -122.3020725
+          },
+          {
+            "latitude": 47.6531997,
+            "longitude": -122.301976
+          },
+          {
+            "latitude": 47.6530425,
+            "longitude": -122.3019339
+          },
+          {
+            "latitude": 47.6528853,
+            "longitude": -122.301976
+          }
+        ]
+      },
       {
         "points": [
           {
@@ -242,90 +326,6 @@
           {
             "latitude": 47.6662328,
             "longitude": -122.2991591
-          }
-        ]
-      },
-      {
-        "points": [
-          {
-            "latitude": 47.6527818,
-            "longitude": -122.3020725
-          },
-          {
-            "latitude": 47.6527576,
-            "longitude": -122.3021084
-          },
-          {
-            "latitude": 47.652746,
-            "longitude": -122.302127
-          },
-          {
-            "latitude": 47.6527039,
-            "longitude": -122.3022842
-          },
-          {
-            "latitude": 47.652746,
-            "longitude": -122.3024414
-          },
-          {
-            "latitude": 47.6527576,
-            "longitude": -122.3024599
-          },
-          {
-            "latitude": 47.6527818,
-            "longitude": -122.3024958
-          },
-          {
-            "latitude": 47.6528853,
-            "longitude": -122.3025923
-          },
-          {
-            "latitude": 47.6530425,
-            "longitude": -122.3026345
-          },
-          {
-            "latitude": 47.6531997,
-            "longitude": -122.3025923
-          },
-          {
-            "latitude": 47.6533032,
-            "longitude": -122.3024958
-          },
-          {
-            "latitude": 47.6533274,
-            "longitude": -122.3024599
-          },
-          {
-            "latitude": 47.6533389,
-            "longitude": -122.3024414
-          },
-          {
-            "latitude": 47.6533811,
-            "longitude": -122.3022842
-          },
-          {
-            "latitude": 47.6533389,
-            "longitude": -122.302127
-          },
-          {
-            "latitude": 47.6533274,
-            "longitude": -122.3021084
-          },
-          {
-            "latitude": 47.6533032,
-            "longitude": -122.3020725
-          },
-          {
-            "latitude": 47.6531997,
-            "longitude": -122.301976
-          },
-          {
-            "latitude": 47.6530425,
-            "longitude": -122.3019339
-          },
-          {
-            "latitude": 47.6528853,
-            "longitude": -122.301976
           }
         ]
       },
@@ -1136,24 +1136,24 @@
             "longitude": -122.303591
           },
           {
-            "latitude": 47.6642207,
-            "longitude": -122.303591
+            "latitude": 47.6641695,
+            "longitude": -122.3035868
           },
           {
-            "latitude": 47.6642022,
-            "longitude": -122.3035737
+            "latitude": 47.6641404,
+            "longitude": -122.3035946
           },
           {
-            "latitude": 47.664045,
-            "longitude": -122.3035316
+            "latitude": 47.664041,
+            "longitude": -122.3035019
           },
           {
-            "latitude": 47.6639177,
-            "longitude": -122.3035657
+            "latitude": 47.6638838,
+            "longitude": -122.3034598
           },
           {
-            "latitude": 47.6639101,
-            "longitude": -122.3035381
+            "latitude": 47.6638428,
+            "longitude": -122.3034708
           },
           {
             "latitude": 47.663795,
@@ -1369,7 +1369,7 @@
   {
     "id": 929136,
     "startDate": "Tue Apr 13 21:37:00 UTC 2021",
-    "etrDate": "Wed Apr 14 01:00:00 UTC 2021",
+    "etrDate": "Wed Apr 14 02:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -1480,7 +1480,7 @@
   {
     "id": 929143,
     "startDate": "Tue Apr 13 22:52:00 UTC 2021",
-    "etrDate": "Tue Apr 13 23:00:00 UTC 2021",
+    "etrDate": "Wed Apr 14 02:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,

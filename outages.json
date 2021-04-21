@@ -2,12 +2,12 @@
   {
     "id": 929733,
     "startDate": "Wed Apr 21 19:40:00 UTC 2021",
-    "etrDate": "Thu Apr 22 01:00:00 UTC 2021",
+    "etrDate": "Thu Apr 22 02:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Fire - Building",
     "identifier": "124566",
     "latitude": 47.70798696933315,
@@ -111,128 +111,9 @@
     "affectedDistricts": []
   },
   {
-    "id": 929735,
-    "startDate": "Wed Apr 21 15:30:00 UTC 2021",
-    "etrDate": "Wed Apr 21 22:35:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 7,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Planned Work",
-    "identifier": "124567",
-    "latitude": 47.6489979008362,
-    "longitude": -122.39230613527775,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.6491357,
-            "longitude": -122.392923
-          },
-          {
-            "latitude": 47.6492677,
-            "longitude": -122.3929345
-          },
-          {
-            "latitude": 47.6492948,
-            "longitude": -122.3929356
-          },
-          {
-            "latitude": 47.6493227,
-            "longitude": -122.3929344
-          },
-          {
-            "latitude": 47.6495979,
-            "longitude": -122.3929098
-          },
-          {
-            "latitude": 47.6497272,
-            "longitude": -122.392869
-          },
-          {
-            "latitude": 47.6498423,
-            "longitude": -122.3927539
-          },
-          {
-            "latitude": 47.6498844,
-            "longitude": -122.3925967
-          },
-          {
-            "latitude": 47.6498423,
-            "longitude": -122.3924395
-          },
-          {
-            "latitude": 47.6497973,
-            "longitude": -122.3923794
-          },
-          {
-            "latitude": 47.6491113,
-            "longitude": -122.3916617
-          },
-          {
-            "latitude": 47.6490412,
-            "longitude": -122.3916067
-          },
-          {
-            "latitude": 47.648884,
-            "longitude": -122.3915646
-          },
-          {
-            "latitude": 47.6487441,
-            "longitude": -122.3915974
-          },
-          {
-            "latitude": 47.6482533,
-            "longitude": -122.3918412
-          },
-          {
-            "latitude": 47.6482359,
-            "longitude": -122.3918505
-          },
-          {
-            "latitude": 47.6481209,
-            "longitude": -122.3919656
-          },
-          {
-            "latitude": 47.6480787,
-            "longitude": -122.3921228
-          },
-          {
-            "latitude": 47.6481209,
-            "longitude": -122.39228
-          },
-          {
-            "latitude": 47.648225,
-            "longitude": -122.3923885
-          },
-          {
-            "latitude": 47.6489947,
-            "longitude": -122.3928755
-          },
-          {
-            "latitude": 47.6490056,
-            "longitude": -122.3928821
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 929738,
     "startDate": "Wed Apr 21 21:14:00 UTC 2021",
-    "etrDate": "Thu Apr 22 00:00:00 UTC 2021",
+    "etrDate": "Thu Apr 22 01:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,

@@ -1,125 +1,14 @@
 [
   {
-    "id": 930082,
-    "startDate": "Thu Apr 29 22:18:00 UTC 2021",
-    "etrDate": "Fri Apr 30 02:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "124779",
-    "latitude": 47.50743078014027,
-    "longitude": -122.25848770505681,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.5072333,
-            "longitude": -122.2584388
-          },
-          {
-            "latitude": 47.5072091,
-            "longitude": -122.2584747
-          },
-          {
-            "latitude": 47.5071975,
-            "longitude": -122.2584932
-          },
-          {
-            "latitude": 47.5071554,
-            "longitude": -122.2586504
-          },
-          {
-            "latitude": 47.5071975,
-            "longitude": -122.2588076
-          },
-          {
-            "latitude": 47.5072091,
-            "longitude": -122.2588262
-          },
-          {
-            "latitude": 47.5072333,
-            "longitude": -122.2588621
-          },
-          {
-            "latitude": 47.5073368,
-            "longitude": -122.2589586
-          },
-          {
-            "latitude": 47.507494,
-            "longitude": -122.2590007
-          },
-          {
-            "latitude": 47.5076512,
-            "longitude": -122.2589586
-          },
-          {
-            "latitude": 47.5077547,
-            "longitude": -122.2588621
-          },
-          {
-            "latitude": 47.5077789,
-            "longitude": -122.2588262
-          },
-          {
-            "latitude": 47.5077905,
-            "longitude": -122.2588076
-          },
-          {
-            "latitude": 47.5078326,
-            "longitude": -122.2586504
-          },
-          {
-            "latitude": 47.5077905,
-            "longitude": -122.2584932
-          },
-          {
-            "latitude": 47.5077789,
-            "longitude": -122.2584747
-          },
-          {
-            "latitude": 47.5077547,
-            "longitude": -122.2584388
-          },
-          {
-            "latitude": 47.5076512,
-            "longitude": -122.2583422
-          },
-          {
-            "latitude": 47.507494,
-            "longitude": -122.2583001
-          },
-          {
-            "latitude": 47.5073368,
-            "longitude": -122.2583422
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "South Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 930084,
     "startDate": "Thu Apr 29 23:06:00 UTC 2021",
-    "etrDate": "Fri Apr 30 21:00:00 UTC 2021",
+    "etrDate": "Fri Apr 30 04:11:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 31,
     "mapPinUrl": "",
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Bird_Animal",
     "identifier": "124781",
     "latitude": 47.565992385394594,
     "longitude": -122.38739817733033,

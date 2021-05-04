@@ -2,12 +2,12 @@
   {
     "id": 930344,
     "startDate": "Tue May 04 15:38:00 UTC 2021",
-    "etrDate": "Tue May 04 15:42:00 UTC 2021",
+    "etrDate": "Tue May 04 19:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "124878",
     "latitude": 47.66705227609057,
@@ -113,98 +113,114 @@
   {
     "id": 930345,
     "startDate": "Tue May 04 15:40:00 UTC 2021",
-    "etrDate": "Tue May 04 15:42:00 UTC 2021",
+    "etrDate": "Tue May 04 20:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
-    "numPeople": 1,
+    "numPeople": 11,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "124879",
-    "latitude": 47.667311642902895,
-    "longitude": -122.30378432885318,
+    "latitude": 47.66749856094343,
+    "longitude": -122.30340961906728,
     "polygons": [
       {
         "points": [
           {
-            "latitude": 47.6670124,
-            "longitude": -122.3034738
+            "latitude": 47.6678127,
+            "longitude": -122.3028508
           },
           {
-            "latitude": 47.6669882,
-            "longitude": -122.3035097
+            "latitude": 47.6675737,
+            "longitude": -122.302853
           },
           {
-            "latitude": 47.6669766,
-            "longitude": -122.3035283
+            "latitude": 47.6675713,
+            "longitude": -122.302853
           },
           {
-            "latitude": 47.6669345,
+            "latitude": 47.6674162,
+            "longitude": -122.3028556
+          },
+          {
+            "latitude": 47.6672644,
+            "longitude": -122.3028977
+          },
+          {
+            "latitude": 47.6671493,
+            "longitude": -122.3030128
+          },
+          {
+            "latitude": 47.6671195,
+            "longitude": -122.303083
+          },
+          {
+            "latitude": 47.666971,
+            "longitude": -122.3035985
+          },
+          {
+            "latitude": 47.6669587,
             "longitude": -122.3036855
           },
           {
-            "latitude": 47.6669766,
+            "latitude": 47.6670008,
             "longitude": -122.3038427
           },
           {
-            "latitude": 47.6669882,
-            "longitude": -122.3038612
+            "latitude": 47.6670146,
+            "longitude": -122.3038644
           },
           {
-            "latitude": 47.6670124,
-            "longitude": -122.3038971
+            "latitude": 47.6671184,
+            "longitude": -122.3040144
           },
           {
-            "latitude": 47.6671159,
-            "longitude": -122.3039937
+            "latitude": 47.6672197,
+            "longitude": -122.3041078
           },
           {
-            "latitude": 47.6672731,
-            "longitude": -122.3040358
+            "latitude": 47.6673769,
+            "longitude": -122.3041499
           },
           {
-            "latitude": 47.6674303,
-            "longitude": -122.3039937
+            "latitude": 47.6675341,
+            "longitude": -122.3041078
           },
           {
-            "latitude": 47.6675338,
-            "longitude": -122.3038971
+            "latitude": 47.6675922,
+            "longitude": -122.3040646
           },
           {
-            "latitude": 47.667558,
-            "longitude": -122.3038612
+            "latitude": 47.6676702,
+            "longitude": -122.3039914
           },
           {
-            "latitude": 47.6675696,
-            "longitude": -122.3038427
+            "latitude": 47.667724,
+            "longitude": -122.3039248
           },
           {
-            "latitude": 47.6676117,
-            "longitude": -122.3036855
+            "latitude": 47.6680847,
+            "longitude": -122.3033277
           },
           {
-            "latitude": 47.6675696,
-            "longitude": -122.3035283
+            "latitude": 47.6680879,
+            "longitude": -122.3033223
           },
           {
-            "latitude": 47.667558,
-            "longitude": -122.3035097
+            "latitude": 47.66813,
+            "longitude": -122.3031651
           },
           {
-            "latitude": 47.6675338,
-            "longitude": -122.3034738
+            "latitude": 47.6680879,
+            "longitude": -122.3030079
           },
           {
-            "latitude": 47.6674303,
-            "longitude": -122.3033773
+            "latitude": 47.6679728,
+            "longitude": -122.3028929
           },
           {
-            "latitude": 47.6672731,
-            "longitude": -122.3033352
-          },
-          {
-            "latitude": 47.6671159,
-            "longitude": -122.3033773
+            "latitude": 47.6678156,
+            "longitude": -122.3028507
           }
         ]
       }

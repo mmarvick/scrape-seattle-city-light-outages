@@ -109,5 +109,164 @@
     "affectedMunicipalities": [],
     "affectedCounties": [],
     "affectedDistricts": []
+  },
+  {
+    "id": 930840,
+    "startDate": "Sat May 15 21:51:00 UTC 2021",
+    "etrDate": "Sat May 15 21:54:00 UTC 2021",
+    "type": "OUTAGE",
+    "title": "Outage",
+    "numPeople": 119,
+    "mapPinUrl": "",
+    "status": "",
+    "cause": "Investigating",
+    "identifier": "125121",
+    "latitude": 47.7290289010078,
+    "longitude": -122.34847422118645,
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.7284875,
+            "longitude": -122.3486324
+          },
+          {
+            "latitude": 47.7285296,
+            "longitude": -122.3487896
+          },
+          {
+            "latitude": 47.7285412,
+            "longitude": -122.3488081
+          },
+          {
+            "latitude": 47.7285654,
+            "longitude": -122.348844
+          },
+          {
+            "latitude": 47.7286689,
+            "longitude": -122.3489405
+          },
+          {
+            "latitude": 47.7288261,
+            "longitude": -122.3489827
+          },
+          {
+            "latitude": 47.7289833,
+            "longitude": -122.3489405
+          },
+          {
+            "latitude": 47.7290868,
+            "longitude": -122.348844
+          },
+          {
+            "latitude": 47.729111,
+            "longitude": -122.3488081
+          },
+          {
+            "latitude": 47.7291226,
+            "longitude": -122.3487896
+          },
+          {
+            "latitude": 47.7291535,
+            "longitude": -122.3486743
+          },
+          {
+            "latitude": 47.7292442,
+            "longitude": -122.3486986
+          },
+          {
+            "latitude": 47.7294014,
+            "longitude": -122.3486565
+          },
+          {
+            "latitude": 47.7295049,
+            "longitude": -122.3485599
+          },
+          {
+            "latitude": 47.7295291,
+            "longitude": -122.348524
+          },
+          {
+            "latitude": 47.7295407,
+            "longitude": -122.3485055
+          },
+          {
+            "latitude": 47.7295829,
+            "longitude": -122.3483483
+          },
+          {
+            "latitude": 47.7295407,
+            "longitude": -122.3481911
+          },
+          {
+            "latitude": 47.7295291,
+            "longitude": -122.3481725
+          },
+          {
+            "latitude": 47.7295049,
+            "longitude": -122.3481366
+          },
+          {
+            "latitude": 47.7294014,
+            "longitude": -122.3480401
+          },
+          {
+            "latitude": 47.7292442,
+            "longitude": -122.347998
+          },
+          {
+            "latitude": 47.729087,
+            "longitude": -122.3480401
+          },
+          {
+            "latitude": 47.7289836,
+            "longitude": -122.3481366
+          },
+          {
+            "latitude": 47.7289594,
+            "longitude": -122.3481725
+          },
+          {
+            "latitude": 47.7289478,
+            "longitude": -122.3481911
+          },
+          {
+            "latitude": 47.7289169,
+            "longitude": -122.3483064
+          },
+          {
+            "latitude": 47.7288261,
+            "longitude": -122.3482821
+          },
+          {
+            "latitude": 47.7286689,
+            "longitude": -122.3483242
+          },
+          {
+            "latitude": 47.7285654,
+            "longitude": -122.3484207
+          },
+          {
+            "latitude": 47.7285412,
+            "longitude": -122.3484566
+          },
+          {
+            "latitude": 47.7285296,
+            "longitude": -122.3484752
+          }
+        ]
+      }
+    ],
+    "publicVisibility": true,
+    "enabled": false,
+    "manual": false,
+    "images": [],
+    "rules": [],
+    "actions": [],
+    "city": "North Seattle",
+    "state": "WA",
+    "affectedMunicipalities": [],
+    "affectedCounties": [],
+    "affectedDistricts": []
   }
 ]

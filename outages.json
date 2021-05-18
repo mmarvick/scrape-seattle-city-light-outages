@@ -401,7 +401,7 @@
   {
     "id": 931006,
     "startDate": "Tue May 18 16:24:00 UTC 2021",
-    "etrDate": "Tue May 18 21:00:00 UTC 2021",
+    "etrDate": "Tue May 18 22:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 2,
@@ -512,7 +512,7 @@
   {
     "id": 931016,
     "startDate": "Tue May 18 18:00:00 UTC 2021",
-    "etrDate": "Tue May 18 21:00:00 UTC 2021",
+    "etrDate": "Tue May 18 22:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -623,7 +623,7 @@
   {
     "id": 931019,
     "startDate": "Tue May 18 18:06:00 UTC 2021",
-    "etrDate": "Tue May 18 21:00:00 UTC 2021",
+    "etrDate": "Tue May 18 22:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 1,
@@ -734,12 +734,12 @@
   {
     "id": 931024,
     "startDate": "Tue May 18 18:38:00 UTC 2021",
-    "etrDate": "Tue May 18 18:48:01 UTC 2021",
+    "etrDate": "Wed May 19 16:00:00 UTC 2021",
     "type": "OUTAGE",
     "title": "Outage",
     "numPeople": 34,
     "mapPinUrl": "",
-    "status": "",
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "125185",
     "latitude": 47.75877048724535,
@@ -1149,6 +1149,117 @@
           {
             "latitude": 47.6512555,
             "longitude": -122.3405915
+          }
+        ]
+      }
+    ],
+    "publicVisibility": true,
+    "enabled": false,
+    "manual": false,
+    "images": [],
+    "rules": [],
+    "actions": [],
+    "city": "North Seattle",
+    "state": "WA",
+    "affectedMunicipalities": [],
+    "affectedCounties": [],
+    "affectedDistricts": []
+  },
+  {
+    "id": 931029,
+    "startDate": "Tue May 18 19:06:00 UTC 2021",
+    "etrDate": "Tue May 18 19:12:01 UTC 2021",
+    "type": "OUTAGE",
+    "title": "Outage",
+    "numPeople": 1,
+    "mapPinUrl": "",
+    "status": "Dispatched",
+    "cause": "Planned Work",
+    "identifier": "125188",
+    "latitude": 47.74581590658492,
+    "longitude": -122.31988616783119,
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 47.7455983,
+            "longitude": -122.319785
+          },
+          {
+            "latitude": 47.7455741,
+            "longitude": -122.3198209
+          },
+          {
+            "latitude": 47.7455625,
+            "longitude": -122.3198394
+          },
+          {
+            "latitude": 47.7455204,
+            "longitude": -122.3199966
+          },
+          {
+            "latitude": 47.7455625,
+            "longitude": -122.3201538
+          },
+          {
+            "latitude": 47.7455741,
+            "longitude": -122.3201724
+          },
+          {
+            "latitude": 47.7455983,
+            "longitude": -122.3202083
+          },
+          {
+            "latitude": 47.7457018,
+            "longitude": -122.3203048
+          },
+          {
+            "latitude": 47.745859,
+            "longitude": -122.3203469
+          },
+          {
+            "latitude": 47.7460162,
+            "longitude": -122.3203048
+          },
+          {
+            "latitude": 47.7461197,
+            "longitude": -122.3202083
+          },
+          {
+            "latitude": 47.7461439,
+            "longitude": -122.3201724
+          },
+          {
+            "latitude": 47.7461555,
+            "longitude": -122.3201538
+          },
+          {
+            "latitude": 47.7461976,
+            "longitude": -122.3199966
+          },
+          {
+            "latitude": 47.7461555,
+            "longitude": -122.3198394
+          },
+          {
+            "latitude": 47.7461439,
+            "longitude": -122.3198209
+          },
+          {
+            "latitude": 47.7461197,
+            "longitude": -122.319785
+          },
+          {
+            "latitude": 47.7460162,
+            "longitude": -122.3196884
+          },
+          {
+            "latitude": 47.745859,
+            "longitude": -122.3196463
+          },
+          {
+            "latitude": 47.7457018,
+            "longitude": -122.3196884
           }
         ]
       }

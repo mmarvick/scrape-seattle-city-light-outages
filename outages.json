@@ -381,117 +381,6 @@
     "affectedDistricts": []
   },
   {
-    "id": 931675,
-    "startDate": "Sat May 22 16:00:00 UTC 2021",
-    "etrDate": "Sat May 22 22:00:00 UTC 2021",
-    "type": "OUTAGE",
-    "title": "Outage",
-    "numPeople": 1,
-    "mapPinUrl": "",
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "125331",
-    "latitude": 47.64565564398597,
-    "longitude": -122.38587566031623,
-    "polygons": [
-      {
-        "points": [
-          {
-            "latitude": 47.6453157,
-            "longitude": -122.3854604
-          },
-          {
-            "latitude": 47.6452915,
-            "longitude": -122.3854963
-          },
-          {
-            "latitude": 47.6452799,
-            "longitude": -122.3855148
-          },
-          {
-            "latitude": 47.6452378,
-            "longitude": -122.385672
-          },
-          {
-            "latitude": 47.6452799,
-            "longitude": -122.3858292
-          },
-          {
-            "latitude": 47.6452915,
-            "longitude": -122.3858478
-          },
-          {
-            "latitude": 47.6453157,
-            "longitude": -122.3858837
-          },
-          {
-            "latitude": 47.6454192,
-            "longitude": -122.3859802
-          },
-          {
-            "latitude": 47.6455764,
-            "longitude": -122.3860223
-          },
-          {
-            "latitude": 47.6457336,
-            "longitude": -122.3859802
-          },
-          {
-            "latitude": 47.6458371,
-            "longitude": -122.3858837
-          },
-          {
-            "latitude": 47.6458613,
-            "longitude": -122.3858478
-          },
-          {
-            "latitude": 47.6458729,
-            "longitude": -122.3858292
-          },
-          {
-            "latitude": 47.645915,
-            "longitude": -122.385672
-          },
-          {
-            "latitude": 47.6458729,
-            "longitude": -122.3855148
-          },
-          {
-            "latitude": 47.6458613,
-            "longitude": -122.3854963
-          },
-          {
-            "latitude": 47.6458371,
-            "longitude": -122.3854604
-          },
-          {
-            "latitude": 47.6457336,
-            "longitude": -122.3853639
-          },
-          {
-            "latitude": 47.6455764,
-            "longitude": -122.3853217
-          },
-          {
-            "latitude": 47.6454192,
-            "longitude": -122.3853639
-          }
-        ]
-      }
-    ],
-    "publicVisibility": true,
-    "enabled": false,
-    "manual": false,
-    "images": [],
-    "rules": [],
-    "actions": [],
-    "city": "North Seattle",
-    "state": "WA",
-    "affectedMunicipalities": [],
-    "affectedCounties": [],
-    "affectedDistricts": []
-  },
-  {
     "id": 931677,
     "startDate": "Sat May 22 16:06:00 UTC 2021",
     "etrDate": "Sun May 23 00:22:00 UTC 2021",
@@ -502,11 +391,23 @@
     "status": "Dispatched",
     "cause": "Planned Work",
     "identifier": "125332",
-    "latitude": 47.60997070028216,
-    "longitude": -122.29571474706479,
+    "latitude": 47.609970699788974,
+    "longitude": -122.29571474810308,
     "polygons": [
       {
         "points": [
+          {
+            "latitude": 47.609539,
+            "longitude": -122.2962465
+          },
+          {
+            "latitude": 47.610141,
+            "longitude": -122.2962681
+          },
+          {
+            "latitude": 47.6101522,
+            "longitude": -122.2962683
+          },
           {
             "latitude": 47.610264,
             "longitude": -122.2962477
@@ -582,18 +483,6 @@
           {
             "latitude": 47.609393,
             "longitude": -122.2962046
-          },
-          {
-            "latitude": 47.609539,
-            "longitude": -122.2962465
-          },
-          {
-            "latitude": 47.610141,
-            "longitude": -122.2962681
-          },
-          {
-            "latitude": 47.6101522,
-            "longitude": -122.2962683
           }
         ]
       }
